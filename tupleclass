@@ -1,0 +1,5 @@
+# tuples are also used to store multiple items im a single variable
+# indexed, ordered, unchangeable, allow duplicates
+
+tuple_of_names = ("akura", "allen", "alex", "eloise")
+print(tuple_of_names)
